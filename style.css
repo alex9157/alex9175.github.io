@@ -1,0 +1,11 @@
+body {color:#d71b3b;
+	background-image: url("./fond_ecran.jpg");
+	background-size: 100%;
+	background-opacity:0.3;
+
+}
+
+h1 { font-family: Georgia; }
+a.xoc{color: ;}
+a {color: green;}
+img.img_index {width:50%;}
